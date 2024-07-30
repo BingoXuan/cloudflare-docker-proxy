@@ -6,7 +6,7 @@ addEventListener("fetch", (event) => {
 const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
-  "docker.yourstream.cloud": "https://registry-1.docker.io",
+  "dock.yourstream.cloud": "https://registry-1.docker.io",
   // "quay.libcuda.so": "https://quay.io",
   // "gcr.libcuda.so": "https://gcr.io",
   // "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
